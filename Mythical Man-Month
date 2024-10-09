@@ -1,0 +1,17 @@
+Ch 1.
+Large-scale software projects often become unexpectedly complex, leading to delays and failures, yet programming offers creative rewards
+•	Large-scale systems->Complexity, entanglement
+•	Project management: Missed goals, deadlines, budgets
+•	Small vs. large efforts==Individual programming vs. team efforts
+•	Challenges: Coordination, system integration, unexpected issues
+•	Rewards: Creativity, problem-solving, learning
+•	Systems programming: Prone to delays, underestimated
+
+Ch 2.
+Adding more manpower to a delayed software project exacerbates delays due to increased communication and coordination overhead
+•	Mythical man-month: Non-linear relationship between time and resources
+•	Brooks’s Law: Manpower increases delays
+•	Issues: Communication overhead, training, slowed progress
+•	Sequential tasks: Non-parallelizable, delays persist
+•	Effective management: Small skilled teams, realistic planning, conceptual integrity
+•	Common mistakes: Optimism in scheduling, effort vs. progress confusion, poor monitoring
